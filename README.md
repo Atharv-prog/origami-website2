@@ -1,3 +1,3 @@
 # DESIGN-ORIGAMI-WEBSITE---3
 OUTPUT LINK'
-https://suwarna-cloud.github.io/DESIGN-ORIGAMI-WEBSITE---3/
+https://atharv-prog.github.io/origami-website2/index.html
